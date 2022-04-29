@@ -1,0 +1,18 @@
+.caixa {
+    background-color: #D8E59E;
+}
+
+.titulo {
+    color: white !important;
+    font-weight: bold !important;
+}
+
+.botao-login {
+    border-color: white !important;
+    background-color: #0729e7;
+    color: white !important;
+}
+
+.produtos {
+    background-color: white;
+}

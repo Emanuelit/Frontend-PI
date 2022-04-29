@@ -1,0 +1,30 @@
+.cursor {
+    cursor: pointer;
+    color: white;
+    
+
+}
+.logo{
+    
+}
+
+.icon1:hover, .icon2:hover, .icon3:hover, .icon4:hover {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.68);
+}
+.text-decorator-none {
+    text-decoration: none;
+}
+
+
+.tool {
+    background-color: #D8E59E;
+    justify-content: space-between;
+    border-bottom: 0.5px solid #fffffff7;
+    
+}
+
+.links{
+    color: white;
+    text-decoration: none;
+
+}
